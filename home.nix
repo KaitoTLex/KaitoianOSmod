@@ -194,7 +194,7 @@
   # configuration is compatible with. This helps avoid breakage
   # when a new home Manager release introduces backwards
   # incompatible changes.
-  home.stateVersion = "24.05";
+  home.stateVersion = "25.11";
   #
   # You can update home Manager without changing this value. See
   # the home Manager release notes for a list of state version
