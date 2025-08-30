@@ -5,7 +5,7 @@
 with pkgs;
 [
   arduino-cli
-  wacomtablet
+  kdePackages.wacomtablet
   sbctl
   kicad
   polychromatic
