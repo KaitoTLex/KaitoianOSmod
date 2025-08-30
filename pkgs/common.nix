@@ -2,11 +2,14 @@
 
 with pkgs;
 [
-
   #goonware
   ani-cli
   mpv-unwrapped
   manga-tui
+  prismlauncher
+
+  #music
+  cider-2
 
   #opsec
   pass
