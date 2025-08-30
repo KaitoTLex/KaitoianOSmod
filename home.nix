@@ -92,7 +92,6 @@
       #background_image = "${inputs.wallpapers}/kitty/moominResized.png";
       background_image_layout = "cscaled";
       #background_image_linear = "yes";
-      background_opacity = pkgs.lib.mkForce "0.6";
     };
   };
 
