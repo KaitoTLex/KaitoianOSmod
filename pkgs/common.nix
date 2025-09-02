@@ -13,7 +13,6 @@ with pkgs;
 
   #opsec
   pass
-  tor-browser
 
   #ee
   openhantek6022
