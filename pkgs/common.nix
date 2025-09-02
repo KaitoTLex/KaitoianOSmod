@@ -9,7 +9,7 @@ with pkgs;
   prismlauncher
 
   #music
-  cider
+  #cider
 
   #opsec
   pass
