@@ -12,6 +12,6 @@ with pkgs;
   openrazer-daemon
   osu-lazer-bin
   tor-browser
-  cider
+  cider2
 ]
 #formatter."x86_64-linux" = nixpkgs.legacyPackages.x86_64-linux.nixfmt-rfc-style;
