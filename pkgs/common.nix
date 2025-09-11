@@ -16,6 +16,8 @@ with pkgs;
 
   #ee
   openhantek6022
+  verilator
+  cmake
 
   #hamradio
   rtl-sdr
