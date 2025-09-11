@@ -17,6 +17,7 @@ with pkgs;
   #ee
   openhantek6022
   verilator
+  gnumake
   cmake
 
   #hamradio
