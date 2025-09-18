@@ -13,12 +13,14 @@ with pkgs;
 
   #opsec
   pass
+  protonvpn-cli_2
 
   #ee
   openhantek6022
   verilator
   gnumake
   cmake
+  kicad
 
   #hamradio
   rtl-sdr
