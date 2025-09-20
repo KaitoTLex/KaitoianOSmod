@@ -14,6 +14,8 @@ with pkgs;
   #opsec
   pass
   protonvpn-cli_2
+  protonvpn-gui
+  contact
 
   #ee
   openhantek6022
