@@ -16,6 +16,7 @@ with pkgs;
   protonvpn-cli_2
   protonvpn-gui
   contact
+  cinny-unwrapped
 
   #ee
   openhantek6022
