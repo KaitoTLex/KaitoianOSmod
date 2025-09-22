@@ -15,7 +15,8 @@ with pkgs;
   pass
   protonvpn-cli_2
   protonvpn-gui
-  contact
+  #contact
+  vivaldi
   cinny-unwrapped
 
   #ee
