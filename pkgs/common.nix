@@ -16,7 +16,8 @@ with pkgs;
   pass
   protonvpn-cli_2
   protonvpn-gui
-  contact
+  #contact
+  vivaldi
   cinny-unwrapped
 
   #ee
@@ -25,6 +26,7 @@ with pkgs;
   gnumake
   cmake
   kicad
+  vscodium-fhs
 
   #hamradio
   rtl-sdr
