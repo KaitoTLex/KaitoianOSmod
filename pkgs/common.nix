@@ -17,8 +17,8 @@ with pkgs;
   protonvpn-cli_2
   protonvpn-gui
   #contact
-  vivaldi
   cinny-unwrapped
+  ungoogled-chromium
 
   #ee
   openhantek6022
