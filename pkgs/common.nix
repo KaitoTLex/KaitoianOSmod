@@ -7,6 +7,7 @@ with pkgs;
   mpv-unwrapped
   manga-tui
   prismlauncher
+  libreoffice-qt
 
   #music
   #cider
