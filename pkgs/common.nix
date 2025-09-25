@@ -27,6 +27,7 @@ with pkgs;
   cmake
   kicad
   vscodium-fhs
+  zulu
 
   #hamradio
   rtl-sdr
