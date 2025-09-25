@@ -2,6 +2,10 @@
 
 with pkgs;
 [
+  #productivity
+  calcure
+  obsidian
+  
   #goonware
   ani-cli
   mpv-unwrapped
