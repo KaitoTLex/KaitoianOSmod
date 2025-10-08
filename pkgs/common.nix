@@ -21,7 +21,7 @@ with pkgs;
   protonvpn-cli_2
   protonvpn-gui
   #contact
-  cinny-unwrapped
+  cinny-desktop
   ungoogled-chromium
 
   #ee
