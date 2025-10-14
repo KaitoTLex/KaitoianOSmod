@@ -34,7 +34,7 @@ with pkgs;
   zulu
 
   #hamradio
-  rtl-sdr
-  gqrx
-  soapysdr-with-plugins
+  #rtl-sdr
+  #gqrx
+  #soapysdr-with-plugins
 ]
